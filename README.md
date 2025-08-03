@@ -5,7 +5,7 @@
 [![React](https://img.shields.io/badge/React.js-Weather%20App-61DAFB?style=for-the-badge\&logo=react)](https://reactjs.org)
 \[![API](https://img.shields.io/badge/API-OpenWeatherMap-orange?style=for-the-badge\&logo=openweathermap)]
 
-## 📌 Overview
+ # 📌 Overview
 
 A responsive **weather forecasting web application** built using **React.js** that provides real-time weather updates for any city. The application uses the **OpenWeatherMap API** to fetch current temperature, humidity, wind speed, and weather conditions. Deployed on **Vercel** for fast and reliable access.
 
